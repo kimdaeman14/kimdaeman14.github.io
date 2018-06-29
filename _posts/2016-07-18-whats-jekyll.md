@@ -1,5 +1,5 @@
 ---
-title: Whats Jekyll?
+title: [iOS]로또생성기 구현하기 1
 tag: Jekyll
 ---
 
