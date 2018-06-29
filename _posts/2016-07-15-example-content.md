@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS] 객체, 프로퍼티, 인스턴스, 클래스??"
 description:  "A short description of the page's content"
 author:       "P.J."
 tags: 
