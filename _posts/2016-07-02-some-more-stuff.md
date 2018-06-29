@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS]계산기 만들기 프로젝트 2"
 description:  "A short description of the page's content"
 author:       "P.J."
 ---
