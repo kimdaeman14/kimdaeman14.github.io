@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS] function vs method ?? "
 description:  "A short description of the page's content"
 author:       "P.J."
 tags: 
