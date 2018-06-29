@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS]UIImageview에 이미지 삽입하기"
 description:  "A short description of the page's content"
 author:       "P.J."
 ---
