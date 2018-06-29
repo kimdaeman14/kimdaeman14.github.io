@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS]테이블뷰를 활용하여 설정화면 구현하기 1"
 description:  "A short description of the page's content"
 author:       "P.J."
 ---
