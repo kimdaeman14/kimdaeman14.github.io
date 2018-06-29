@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS] 파라미터 vs 아규먼트 ??"
 description:  "A short description of the page's content"
 author:       "P.J."
 ---
