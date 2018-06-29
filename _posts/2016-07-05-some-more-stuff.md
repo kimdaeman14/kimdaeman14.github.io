@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS]UILabel 코드개발시 속성"
 description:  "A short description of the page's content"
 author:       "P.J."
 ---
