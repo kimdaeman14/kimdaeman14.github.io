@@ -1,5 +1,5 @@
 ---
-title:        "Example content"
+title:        "[iOS] 클래스 vs 구조체 ??"
 description:  "A short description of the page's content"
 author:       "P.J."
 ---
