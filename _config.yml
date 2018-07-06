@@ -50,7 +50,7 @@ defaults:
   values:
    layout: "page"
  -
-  scope:
+  scope:  
    path: ""
    type: "posts"
   values:
