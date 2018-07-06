@@ -25,6 +25,9 @@ nav:
 
  - name: "contact"
    href: "mailto:ivantheterrible@1530to1584.gov?You%20are%20ooold..."
+   
+ - name: "test"
+   href: "mailto:ivantheterrible@1530to1584.gov?You%20are%20ooold..."
 
 # Sass
 sass:
