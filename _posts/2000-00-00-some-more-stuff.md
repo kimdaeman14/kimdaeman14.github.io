@@ -1,11 +1,7 @@
 ---
-title:        "[iOS]dddddddddddfsdfsfs"
+title:        "[iOS]dsfdsfasfsdfadsfasdf"
 description:  "A short description of the page's content"
 author:       "P.J."
-tags:
-- Example
-- Post
-- earliest
 ---
 
 
